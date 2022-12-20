@@ -1,0 +1,20 @@
+# Compiled
+__pycache__/
+
+# Tests
+.coverage
+.coverage.*
+coverage.xml
+.pytest_cache/
+
+# Pyenv
+.python-version
+
+# Venvs
+env/
+venv/
+
+# IDEs
+.idea/
+.code/
+
